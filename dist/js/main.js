@@ -1,0 +1,2 @@
+!function(){"use strict";var e,n={647:function(e,n){Object.defineProperty(n,"__esModule",{value:!0}),n.zmienna=void 0,n.zmienna=30}},o={};e=function e(r){var t=o[r];if(void 0!==t)return t.exports;var i=o[r]={exports:{}};return n[r](i,i.exports,e),i.exports}(647),console.log("Hej ".concat(e.zmienna))}();
+//# sourceMappingURL=main.js.map
